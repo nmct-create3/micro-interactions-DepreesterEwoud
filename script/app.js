@@ -1,6 +1,4 @@
-let email = {},
-    password = {},
-    signInButton;
+
 function getDOMElements(){
     
 }
